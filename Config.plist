@@ -11,6 +11,7 @@
 	<key>Required Apps</key>
 	<array>
 		<string>com.apple.TextEdit</string>
+		<string>com.gfApps.ChordPro-Buddy</string>
 	</array>
 	<key>Actions</key>
 	<array>

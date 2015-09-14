@@ -10,6 +10,7 @@
 	<string>Copy selected ChordPro text, strip it of lyrics and chord duplications; put chord definition templates in the clipboard</string>
 	<key>Required Apps</key>
 	<array>
+		<string>com.sublimetext.2</string>
 		<string>com.apple.TextEdit</string>
 		<string>com.gfApps.ChordPro-Buddy</string>
 	</array>

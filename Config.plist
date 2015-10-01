@@ -11,6 +11,7 @@
 	<key>Required Apps</key>
 	<array>
 		<string>com.sublimetext.2</string>
+		<string>com.sublimetext.3</string>
 		<string>com.apple.TextEdit</string>
 		<string>com.gfApps.ChordPro-Buddy</string>
 	</array>
@@ -33,7 +34,7 @@
 			<key>Restore Pasteboard</key>
 			<true/>
 			<key>Image File</key>
-			<string>note-lines.png</string>
+			<string>chordProDefinitions.png</string>
 		</dict>
 	</array>
 	<key>Version</key>
